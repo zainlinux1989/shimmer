@@ -1,0 +1,67 @@
+spring:
+  application:
+    name: Shimmer
+  data:
+    mongodb:
+      uri: mongodb://mongo:27017/omh_dsu
+  jackson:
+    serialization:
+      indent_output: true
+
+server:
+  port: 8083
+
+security:
+  basic:
+    enabled: false
+
+logging:
+  file: shimmer.log
+
+openmhealth:
+  shimmer:
+    data-provider-redirect-base-url: http://localhost:8083
+
+  shim:
+   # uncomment and fill in the corresponding values
+   # fitbit:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   #   intraday-data-available: false
+   #   intraday-data-granularity-in-minutes: 1
+   # googlefit:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   # ihealth:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   #   # true if using a sandbox account, false otherwise
+   #   sandboxed: false
+   #   # this is what iHealth refers to as SC
+   #   client-serial-number: "set-value-here"
+   #   # the following are SV values
+   #   activity-endpoint-secret: "set-value-here"
+   #   blood-glucose-endpoint-secret: "set-value-here"
+   #   blood-pressure-endpoint-secret: "set-value-here"
+   #   sleep-endpoint-secret: "set-value-here"
+   #   sp-o2-endpoint-secret: "set-value-here"
+   #   sport-endpoint-secret: "set-value-here"
+   #   weight-endpoint-secret: "set-value-here"
+   # jawbone:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   # misfit:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   # moves:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   #   # whether to use app-based (moves://) or browser-based (http://) authorization flows
+   #   authorization-initiated-from-browser: true
+   # runkeeper:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   # withings:
+   #   client-id: "set-value-here"
+   #   client-secret: "set-value-here"
+   #   intraday-data-available: false

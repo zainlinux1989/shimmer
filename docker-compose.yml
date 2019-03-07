@@ -1,0 +1,20 @@
+resourceserver:
+  image: openmhealth/shimmer-resource-server
+  environment:
+    SPRING_PROFILES_ACTIVE: development
+  links:
+    - mongo:mongo
+  env_file:
+    - resource-server.env
+  ports:
+    - "8084:8083"
+
+mongo:
+  image: mongo
+
+console:
+  image: openmhealth/shimmer-console
+  ports:
+    - "8083:8083"
+  links:
+    - resourceserver:resource-server

@@ -1,0 +1,146 @@
+Ì15:27:35.414 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+ˆ15:27:35.428 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'string' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
+Ï15:27:35.430 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+ˆ15:27:35.446 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'number' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
+	Ì15:27:35.453 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+
+Ï15:27:35.457 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+ˆ15:27:35.465 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'string' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
+Ì15:27:35.467 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+Ï15:27:35.470 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+ˆ15:27:35.472 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'number' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
+Ì15:27:35.474 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+Ï15:27:35.476 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+å15:27:35.574 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'string' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' with value 'hi' isn't a valid temporal.
+Rjava.time.format.DateTimeParseException: Text 'hi' could not be parsed at index 0
+c	at java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:1949) ~[na:1.8.0_201]
+Z	at java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:1851) ~[na:1.8.0_201]
+J	at java.time.LocalDateTime.parse(LocalDateTime.java:492) ~[na:1.8.0_201]
+}	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupport.asOptionalTemporal(JsonNodeMappingSupport.java:440) [main/:na]
+Ç	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupport.asOptionalLocalDateTime(JsonNodeMappingSupport.java:532) [main/:na]
+Ç	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupport.asOptionalLocalDateTime(JsonNodeMappingSupport.java:543) [main/:na]
+¥	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupportUnitTests.asOptionalLocalDateTimeShouldReturnEmptyOnMalformedNode(JsonNodeMappingSupportUnitTests.java:464) [test/:na]
+P	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+b	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_201]
+j	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_201]
+E	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_201]
+s	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85) [testng-6.8.21.jar:na]
+V	at org.testng.internal.Invoker.invokeMethod(Invoker.java:696) [testng-6.8.21.jar:na]
+Z	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:882) [testng-6.8.21.jar:na]
+\	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1189) [testng-6.8.21.jar:na]
+m	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124) [testng-6.8.21.jar:na]
+_	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108) [testng-6.8.21.jar:na]
+Q	at org.testng.TestRunner.privateRun(TestRunner.java:767) [testng-6.8.21.jar:na]
+J	at org.testng.TestRunner.run(TestRunner.java:617) [testng-6.8.21.jar:na]
+P	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348) [testng-6.8.21.jar:na]
+X	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343) [testng-6.8.21.jar:na]
+S	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305) [testng-6.8.21.jar:na]
+L	at org.testng.SuiteRunner.run(SuiteRunner.java:254) [testng-6.8.21.jar:na]
+\	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.8.21.jar:na]
+W	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.8.21.jar:na]
+U	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224) [testng-6.8.21.jar:na]
+P	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149) [testng-6.8.21.jar:na]
+C	at org.testng.TestNG.run(TestNG.java:1057) [testng-6.8.21.jar:na]
+ó	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.runTests(TestNGTestClassProcessor.java:129) [gradle-testing-jvm-4.1.jar:4.1]
+í	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.stop(TestNGTestClassProcessor.java:88) [gradle-testing-jvm-4.1.jar:4.1]
+ä	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61) [gradle-testing-base-4.1.jar:4.1]
+P	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+b	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_201]
+j	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_201]
+E	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_201]
+x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35) [gradle-messaging-4.1.jar:4.1]
+x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24) [gradle-messaging-4.1.jar:4.1]
+à	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32) [gradle-messaging-4.1.jar:4.1]
+ó	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93) [gradle-messaging-4.1.jar:4.1]
+7	at com.sun.proxy.$Proxy1.stop(Unknown Source) [na:na]
+x	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:120) [gradle-testing-base-4.1.jar:4.1]
+P	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+b	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_201]
+j	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_201]
+E	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_201]
+x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35) [gradle-messaging-4.1.jar:4.1]
+x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24) [gradle-messaging-4.1.jar:4.1]
+∞	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:146) [gradle-messaging-4.1.jar:4.1]
+∞	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:128) [gradle-messaging-4.1.jar:4.1]
+w	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:404) [gradle-messaging-4.1.jar:4.1]
+é	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63) [gradle-base-services-4.1.jar:4.1]
+}	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46) [gradle-base-services-4.1.jar:4.1]
+c	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_201]
+c	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_201]
+ç	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55) [gradle-base-services-4.1.jar:4.1]
+9	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_201]
+ˆ15:27:35.592 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'number' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
+Ì15:27:35.593 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+Ï15:27:35.595 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+ˆ15:27:35.598 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'number' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
+Ì15:27:35.600 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+Ï15:27:35.602 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+Ì15:27:35.606 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+á15:27:35.607 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"empty":null,"string":"hi"}'.
+ Ì15:27:35.608 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+!Ü15:27:35.609 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"empty":null,"string":"hi"}'.
+"Ï15:27:35.611 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+&å15:27:35.621 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'string' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' with value 'hi' isn't a valid temporal.
+&Rjava.time.format.DateTimeParseException: Text 'hi' could not be parsed at index 0
+&c	at java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:1949) ~[na:1.8.0_201]
+&Z	at java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:1851) ~[na:1.8.0_201]
+&L	at java.time.OffsetDateTime.parse(OffsetDateTime.java:402) ~[na:1.8.0_201]
+&}	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupport.asOptionalTemporal(JsonNodeMappingSupport.java:440) [main/:na]
+&É	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupport.asOptionalOffsetDateTime(JsonNodeMappingSupport.java:460) [main/:na]
+&É	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupport.asOptionalOffsetDateTime(JsonNodeMappingSupport.java:471) [main/:na]
+&µ	at org.openmhealth.shim.common.mapper.JsonNodeMappingSupportUnitTests.asOptionalOffsetDateTimeShouldReturnEmptyOnMalformedNode(JsonNodeMappingSupportUnitTests.java:418) [test/:na]
+&P	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+&b	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_201]
+&j	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_201]
+&E	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_201]
+&s	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85) [testng-6.8.21.jar:na]
+&V	at org.testng.internal.Invoker.invokeMethod(Invoker.java:696) [testng-6.8.21.jar:na]
+&Z	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:882) [testng-6.8.21.jar:na]
+&\	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1189) [testng-6.8.21.jar:na]
+&m	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124) [testng-6.8.21.jar:na]
+&_	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108) [testng-6.8.21.jar:na]
+&Q	at org.testng.TestRunner.privateRun(TestRunner.java:767) [testng-6.8.21.jar:na]
+&J	at org.testng.TestRunner.run(TestRunner.java:617) [testng-6.8.21.jar:na]
+&P	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348) [testng-6.8.21.jar:na]
+&X	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343) [testng-6.8.21.jar:na]
+&S	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305) [testng-6.8.21.jar:na]
+&L	at org.testng.SuiteRunner.run(SuiteRunner.java:254) [testng-6.8.21.jar:na]
+&\	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-6.8.21.jar:na]
+&W	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86) [testng-6.8.21.jar:na]
+&U	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224) [testng-6.8.21.jar:na]
+&P	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149) [testng-6.8.21.jar:na]
+&C	at org.testng.TestNG.run(TestNG.java:1057) [testng-6.8.21.jar:na]
+&ó	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.runTests(TestNGTestClassProcessor.java:129) [gradle-testing-jvm-4.1.jar:4.1]
+&í	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.stop(TestNGTestClassProcessor.java:88) [gradle-testing-jvm-4.1.jar:4.1]
+&ä	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61) [gradle-testing-base-4.1.jar:4.1]
+&P	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+&b	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_201]
+&j	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_201]
+&E	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_201]
+&x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35) [gradle-messaging-4.1.jar:4.1]
+&x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24) [gradle-messaging-4.1.jar:4.1]
+&à	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32) [gradle-messaging-4.1.jar:4.1]
+&ó	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93) [gradle-messaging-4.1.jar:4.1]
+&7	at com.sun.proxy.$Proxy1.stop(Unknown Source) [na:na]
+&x	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:120) [gradle-testing-base-4.1.jar:4.1]
+&P	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+&b	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_201]
+&j	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_201]
+&E	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_201]
+&x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35) [gradle-messaging-4.1.jar:4.1]
+&x	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24) [gradle-messaging-4.1.jar:4.1]
+&∞	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:146) [gradle-messaging-4.1.jar:4.1]
+&∞	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:128) [gradle-messaging-4.1.jar:4.1]
+&w	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:404) [gradle-messaging-4.1.jar:4.1]
+&é	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63) [gradle-base-services-4.1.jar:4.1]
+&}	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46) [gradle-base-services-4.1.jar:4.1]
+&c	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_201]
+&c	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_201]
+&ç	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55) [gradle-base-services-4.1.jar:4.1]
+&9	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_201]
+'ˆ15:27:35.640 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'number' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
+(Ì15:27:35.644 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+)Ï15:27:35.647 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+*ˆ15:27:35.653 [Test worker] WARN  o.o.s.c.m.JsonNodeMappingSupport - The 'number' field in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}' isn't compatible.
++Ì15:27:35.655 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - A 'foo' field wasn't found in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
+,Ï15:27:35.656 [Test worker] DEBUG o.o.s.c.m.JsonNodeMappingSupport - The 'empty' field is null in node '{"number":2.3,"integer":2,"string":"hi","boolean":true,"empty":null,"date_time":"2014-01-01T12:15:04+02:00","date":"2014-01-01","local_date_time":"2014-01-01T12:15:04","custom_local_date_time":"Fri, 1 Aug 2014 06:53:05","nested":{"empty":null,"string":"hi"}}'.
