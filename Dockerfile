@@ -1,2 +1,3 @@
-CMD ["docker-compose -f docker-compose-build.yml build"]
-CMD ["docker-compose -f docker-compose-build.yml up"]
+#CMD ["docker-compose -f docker-compose-build.yml build"]
+# Comment
+RUN echo 'we are running some # of cool things'
